@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Algeria",
+    "iso_a3": "DZA"
+  },
+  {
+    "name": "Angola",
+    "iso_a3": "AGO"
+  },
+  {
+    "name": "Benin",
+    "iso_a3": "BEN"
+  },
+  {
+    "name": "Botswana",
+    "iso_a3": "BWA"
+  },
+  {
+    "name": "Burkina Faso",
+    "iso_a3": "BFA"
+  },
+  {
+    "name": "Burundi",
+    "iso_a3": "BDI"
+  },
+  {
+    "name": "Cameroon",
+    "iso_a3": "CMR"
+  },
+  {
+    "name": "Cape Verde",
+    "iso_a3": "CPV"
+  },
+  {
+    "name": "Central African Rep.",
+    "iso_a3": "CAF"
+  },
+  {
+    "name": "Chad",
+    "iso_a3": "TCD"
+  },
+  {
+    "name": "Comoros",
+    "iso_a3": "COM"
+  },
+  {
+    "name": "Congo",
+    "iso_a3": "COG"
+  },
+  {
+    "name": "C\u00f4te d'Ivoire",
+    "iso_a3": "CIV"
+  },
+  {
+    "name": "Dem. Rep. Congo",
+    "iso_a3": "COD"
+  },
+  {
+    "name": "Djibouti",
+    "iso_a3": "DJI"
+  },
+  {
+    "name": "Egypt",
+    "iso_a3": "EGY"
+  },
+  {
+    "name": "Eq. Guinea",
+    "iso_a3": "GNQ"
+  },
+  {
+    "name": "Eritrea",
+    "iso_a3": "ERI"
+  },
+  {
+    "name": "Ethiopia",
+    "iso_a3": "ETH"
+  },
+  {
+    "name": "Gabon",
+    "iso_a3": "GAB"
+  },
+  {
+    "name": "Gambia",
+    "iso_a3": "GMB"
+  },
+  {
+    "name": "Ghana",
+    "iso_a3": "GHA"
+  },
+  {
+    "name": "Guinea",
+    "iso_a3": "GIN"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "iso_a3": "GNB"
+  },
+  {
+    "name": "Kenya",
+    "iso_a3": "KEN"
+  },
+  {
+    "name": "Lesotho",
+    "iso_a3": "LSO"
+  },
+  {
+    "name": "Liberia",
+    "iso_a3": "LBR"
+  },
+  {
+    "name": "Libya",
+    "iso_a3": "LBY"
+  },
+  {
+    "name": "Madagascar",
+    "iso_a3": "MDG"
+  },
+  {
+    "name": "Malawi",
+    "iso_a3": "MWI"
+  },
+  {
+    "name": "Mali",
+    "iso_a3": "MLI"
+  },
+  {
+    "name": "Mauritania",
+    "iso_a3": "MRT"
+  },
+  {
+    "name": "Morocco",
+    "iso_a3": "MAR"
+  },
+  {
+    "name": "Mozambique",
+    "iso_a3": "MOZ"
+  },
+  {
+    "name": "Namibia",
+    "iso_a3": "NAM"
+  },
+  {
+    "name": "Niger",
+    "iso_a3": "NER"
+  },
+  {
+    "name": "Nigeria",
+    "iso_a3": "NGA"
+  },
+  {
+    "name": "Rwanda",
+    "iso_a3": "RWA"
+  },
+  {
+    "name": "S. Sudan",
+    "iso_a3": "SSD"
+  },
+  {
+    "name": "Senegal",
+    "iso_a3": "SEN"
+  },
+  {
+    "name": "Sierra Leone",
+    "iso_a3": "SLE"
+  },
+  {
+    "name": "Somalia",
+    "iso_a3": "SOM"
+  },
+  {
+    "name": "Somaliland",
+    "iso_a3": "-99"
+  },
+  {
+    "name": "South Africa",
+    "iso_a3": "ZAF"
+  },
+  {
+    "name": "Sudan",
+    "iso_a3": "SDN"
+  },
+  {
+    "name": "Swaziland",
+    "iso_a3": "SWZ"
+  },
+  {
+    "name": "S\u00e3o Tom\u00e9 and Principe",
+    "iso_a3": "STP"
+  },
+  {
+    "name": "Tanzania",
+    "iso_a3": "TZA"
+  },
+  {
+    "name": "Togo",
+    "iso_a3": "TGO"
+  },
+  {
+    "name": "Tunisia",
+    "iso_a3": "TUN"
+  },
+  {
+    "name": "Uganda",
+    "iso_a3": "UGA"
+  },
+  {
+    "name": "W. Sahara",
+    "iso_a3": "ESH"
+  },
+  {
+    "name": "Zambia",
+    "iso_a3": "ZMB"
+  },
+  {
+    "name": "Zimbabwe",
+    "iso_a3": "ZWE"
+  }
+]

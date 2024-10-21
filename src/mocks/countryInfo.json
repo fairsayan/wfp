@@ -1,0 +1,2133 @@
+[
+  {
+    "country": { "id": 14, "name": "Aruba", "iso3": "ABW", "iso2": "AW" },
+    "population": { "number": 105845, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 1, "name": "Afghanistan", "iso3": "AFG", "iso2": "AF" },
+    "population": { "number": 40411859, "year": 2021, "source": "Flowminder" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 8, "name": "Angola", "iso3": "AGO", "iso2": "AO" },
+    "population": {
+      "number": 34094077,
+      "year": 2023,
+      "source": "INE-National Institute of Statistics"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 3, "name": "Albania", "iso3": "ALB", "iso2": "AL" },
+    "population": { "number": 2866376, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 7, "name": "Andorra", "iso3": "AND", "iso2": "AD" },
+    "population": { "number": 77006, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 255,
+      "name": "United Arab Emirates",
+      "iso3": "ARE",
+      "iso2": "AE"
+    },
+    "population": { "number": 9630959, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 12, "name": "Argentina", "iso3": "ARG", "iso2": "AR" },
+    "population": {
+      "number": 44494502,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 13, "name": "Armenia", "iso3": "ARM", "iso2": "AM" },
+    "population": { "number": 2951776, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 5,
+      "name": "American Samoa",
+      "iso3": "ASM",
+      "iso2": "AS"
+    },
+    "population": { "number": 55465, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 11,
+      "name": "Antigua and Barbuda",
+      "iso3": "ATG",
+      "iso2": "AG"
+    },
+    "population": { "number": 96286, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 17, "name": "Australia", "iso3": "AUS", "iso2": "AU" },
+    "population": {
+      "number": 24992369,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 18, "name": "Austria", "iso3": "AUT", "iso2": "AT" },
+    "population": { "number": 8847037, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 19, "name": "Azerbaijan", "iso3": "AZE", "iso2": "AZ" },
+    "population": { "number": 9942334, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 43, "name": "Burundi", "iso3": "BDI", "iso2": "BI" },
+    "population": {
+      "number": 11175378,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 27, "name": "Belgium", "iso3": "BEL", "iso2": "BE" },
+    "population": {
+      "number": 11422068,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 29, "name": "Benin", "iso3": "BEN", "iso2": "BJ" },
+    "population": { "number": 11485047, "year": 2018, "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": {
+      "id": 42,
+      "name": "Burkina Faso",
+      "iso3": "BFA",
+      "iso2": "BF"
+    },
+    "population": {
+      "number": 19751527,
+      "year": 2018,
+      "source": "World Bank, INS"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 23, "name": "Bangladesh", "iso3": "BGD", "iso2": "BD" },
+    "population": {
+      "number": 161356039,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 41, "name": "Bulgaria", "iso3": "BGR", "iso2": "BG" },
+    "population": { "number": 7024216, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 21, "name": "Bahrain", "iso3": "BHR", "iso2": "BH" },
+    "population": { "number": 1569439, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 20, "name": "Bahamas", "iso3": "BHS", "iso2": "BS" },
+    "population": { "number": 385640, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 34,
+      "name": "Bosnia and Herzegovina",
+      "iso3": "BIH",
+      "iso2": "BA"
+    },
+    "population": { "number": 3323929, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 26, "name": "Belarus", "iso3": "BLR", "iso2": "BY" },
+    "population": { "number": 9485386, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 28, "name": "Belize", "iso3": "BLZ", "iso2": "BZ" },
+    "population": { "number": 383071, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 30, "name": "Bermuda", "iso3": "BMU", "iso2": "BM" },
+    "population": { "number": 63968, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 33, "name": "Bolivia", "iso3": "BOL", "iso2": "BO" },
+    "population": {
+      "number": 12006031,
+      "year": 2022,
+      "source": "Instituto Nacional de Estadistica, Bolivia"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 37, "name": "Brazil", "iso3": "BRA", "iso2": "BR" },
+    "population": {
+      "number": 209469333,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 24, "name": "Barbados", "iso3": "BRB", "iso2": "BB" },
+    "population": { "number": 286641, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 40,
+      "name": "Brunei Darussalam",
+      "iso3": "BRN",
+      "iso2": "BN"
+    },
+    "population": { "number": 428962, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 31, "name": "Bhutan", "iso3": "BTN", "iso2": "BT" },
+    "population": { "number": 754394, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 35, "name": "Botswana", "iso3": "BWA", "iso2": "BW" },
+    "population": { "number": 2254126, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 49,
+      "name": "Central African Republic",
+      "iso3": "CAF",
+      "iso2": "CF"
+    },
+    "population": { "number": 4666377, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": {
+      "acute_percent": 0.058,
+      "chronic_percent": 0.423,
+      "year": 2019,
+      "source": "UNICEF, WFP and ICASSES"
+    },
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 46, "name": "Canada", "iso3": "CAN", "iso2": "CA" },
+    "population": {
+      "number": 37058856,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 237,
+      "name": "Switzerland",
+      "iso3": "CHE",
+      "iso2": "CH"
+    },
+    "population": { "number": 8516543, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 51, "name": "Chile", "iso3": "CHL", "iso2": "CL" },
+    "population": {
+      "number": 18729160,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 53, "name": "China", "iso3": "CHN", "iso2": "CN" },
+    "population": {
+      "number": 1392730000,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 66,
+      "name": "C\u00f4te d'Ivoire",
+      "iso3": "CIV",
+      "iso2": "CI"
+    },
+    "population": {
+      "number": 29389150,
+      "year": 2021,
+      "source": "Institut National de la Statistique de C\u00f4te d'Ivoire"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 45, "name": "Cameroon", "iso3": "CMR", "iso2": "CM" },
+    "population": { "number": 25216232, "year": 2020, "source": "WFP" },
+    "chronic_hunger": null,
+    "malnutrition": {
+      "acute_percent": 0.045,
+      "chronic_percent": 0.293,
+      "year": 2018,
+      "source": "NIS, 2018: Cameroon Demographic and Health Survey (DHS)"
+    },
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": {
+      "id": 68,
+      "name": "Democratic Republic of the Congo",
+      "iso3": "COD",
+      "iso2": "CD"
+    },
+    "population": {
+      "number": 105920995,
+      "year": 2021,
+      "source": "WFP D.R. Congo"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 59, "name": "Congo", "iso3": "COG", "iso2": "CG" },
+    "population": { "number": 5330569, "year": 2020, "source": "UNFPA" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 57, "name": "Colombia", "iso3": "COL", "iso2": "CO" },
+    "population": {
+      "number": 49648685,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 58, "name": "Comoros", "iso3": "COM", "iso2": "KM" },
+    "population": { "number": 832322, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 47, "name": "Cape Verde", "iso3": "CPV", "iso2": "CV" },
+    "population": { "number": 543767, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 61, "name": "Costa Rica", "iso3": "CRI", "iso2": "CR" },
+    "population": { "number": 4999441, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 147299, "name": "Cuba", "iso3": "CUB", "iso2": "CU" },
+    "population": {
+      "number": 11338138,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 48,
+      "name": "Cayman Islands",
+      "iso3": "CYM",
+      "iso2": "KY"
+    },
+    "population": { "number": 64174, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 64, "name": "Cyprus", "iso3": "CYP", "iso2": "CY" },
+    "population": { "number": 1189265, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 65,
+      "name": "Czech Republic",
+      "iso3": "CZE",
+      "iso2": "CZ"
+    },
+    "population": {
+      "number": 10625695,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 93, "name": "Germany", "iso3": "DEU", "iso2": "DE" },
+    "population": {
+      "number": 82927922,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 70, "name": "Djibouti", "iso3": "DJI", "iso2": "DJ" },
+    "population": { "number": 958920, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": {
+      "id": 147297,
+      "name": "Dominica",
+      "iso3": "DMA",
+      "iso2": "DM"
+    },
+    "population": { "number": 71625, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 69, "name": "Denmark", "iso3": "DNK", "iso2": "DK" },
+    "population": { "number": 5797446, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 72,
+      "name": "Dominican Republic",
+      "iso3": "DOM",
+      "iso2": "DO"
+    },
+    "population": { "number": 10771504, "year": 2024, "source": "WFP RBP" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 4, "name": "Algeria", "iso3": "DZA", "iso2": "DZ" },
+    "population": {
+      "number": 42228429,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 73, "name": "Ecuador", "iso3": "ECU", "iso2": "EC" },
+    "population": {
+      "number": 17468736,
+      "year": 2023,
+      "source": "INEC (Instituto Nacional de Estadistica y Censos) - Proyecciones Poblacionales"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 40765, "name": "Egypt", "iso3": "EGY", "iso2": "EG" },
+    "population": {
+      "number": 98423595,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 77, "name": "Eritrea", "iso3": "ERI", "iso2": "ER" },
+    "population": { "number": 3170435, "year": "2010", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 229, "name": "Spain", "iso3": "ESP", "iso2": "ES" },
+    "population": {
+      "number": 46723749,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 78, "name": "Estonia", "iso3": "EST", "iso2": "EE" },
+    "population": { "number": 1320884, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 79, "name": "Ethiopia", "iso3": "ETH", "iso2": "ET" },
+    "population": { "number": 109224553, "year": 2018, "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 84, "name": "Finland", "iso3": "FIN", "iso2": "FI" },
+    "population": { "number": 5518050, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 276, "name": "Fiji", "iso3": "FJI", "iso2": "FJ" },
+    "population": { "number": 883483, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 85, "name": "France", "iso3": "FRA", "iso2": "FR" },
+    "population": {
+      "number": 66987244,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 82,
+      "name": "Faroe Islands",
+      "iso3": "FRO",
+      "iso2": "FO"
+    },
+    "population": { "number": 48497, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 163,
+      "name": "Micronesia (Federated States of)",
+      "iso3": "FSM",
+      "iso2": "FM"
+    },
+    "population": { "number": 112640, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 89, "name": "Gabon", "iso3": "GAB", "iso2": "GA" },
+    "population": { "number": 2119275, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 256,
+      "name": "U.K. of Great Britain and Northern Ireland",
+      "iso3": "GBR",
+      "iso2": "GB"
+    },
+    "population": {
+      "number": 66488991,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 92, "name": "Georgia", "iso3": "GEO", "iso2": "GE" },
+    "population": { "number": 3731000, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 94, "name": "Ghana", "iso3": "GHA", "iso2": "GH" },
+    "population": {
+      "number": 29767108,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 95, "name": "Gibraltar", "iso3": "GIB", "iso2": "GI" },
+    "population": { "number": 33718, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 106, "name": "Guinea", "iso3": "GIN", "iso2": "GN" },
+    "population": { "number": 12414315, "year": 2018, "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 90, "name": "Gambia", "iso3": "GMB", "iso2": "GM" },
+    "population": { "number": 2280102, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": {
+      "id": 105,
+      "name": "Guinea-Bissau",
+      "iso3": "GNB",
+      "iso2": "GW"
+    },
+    "population": { "number": 1874309, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": {
+      "id": 76,
+      "name": "Equatorial Guinea",
+      "iso3": "GNQ",
+      "iso2": "GQ"
+    },
+    "population": { "number": 1308974, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 97, "name": "Greece", "iso3": "GRC", "iso2": "GR" },
+    "population": {
+      "number": 10727668,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 99, "name": "Grenada", "iso3": "GRD", "iso2": "GD" },
+    "population": { "number": 111454, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 98, "name": "Greenland", "iso3": "GRL", "iso2": "GL" },
+    "population": { "number": 56025, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 103, "name": "Guatemala", "iso3": "GTM", "iso2": "GT" },
+    "population": {
+      "number": 17247807,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 101, "name": "Guam", "iso3": "GUM", "iso2": "GU" },
+    "population": { "number": 165768, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 107, "name": "Guyana", "iso3": "GUY", "iso2": "GY" },
+    "population": { "number": 779004, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 33364,
+      "name": "Hong Kong",
+      "iso3": "HKG",
+      "iso2": "HK"
+    },
+    "population": { "number": 7451000, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 111, "name": "Honduras", "iso3": "HND", "iso2": "HN" },
+    "population": { "number": 9587522, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 62, "name": "Croatia", "iso3": "HRV", "iso2": "HR" },
+    "population": { "number": 4089400, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 108, "name": "Haiti", "iso3": "HTI", "iso2": "HT" },
+    "population": {
+      "number": 11887456,
+      "year": 2021,
+      "source": "ISHI, 2021 estimates produced by UNFPA"
+    },
+    "chronic_hunger": null,
+    "malnutrition": {
+      "acute_percent": 0.06,
+      "chronic_percent": 0.227,
+      "year": 2020,
+      "source": "SMART Survey, Jan "
+    },
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 113, "name": "Hungary", "iso3": "HUN", "iso2": "HU" },
+    "population": { "number": 9768785, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 272, "name": "Indonesia", "iso3": "IDN", "iso2": "ID" },
+    "population": {
+      "number": 267663435,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 120,
+      "name": "Isle of Man",
+      "iso3": "IMN",
+      "iso2": "IM"
+    },
+    "population": { "number": 84077, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 115, "name": "India", "iso3": "IND", "iso2": "IN" },
+    "population": {
+      "number": 1352617328,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 119, "name": "Ireland", "iso3": "IRL", "iso2": "IE" },
+    "population": { "number": 4853506, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 117,
+      "name": "Iran  (Islamic Republic of)",
+      "iso3": "IRN",
+      "iso2": "IR"
+    },
+    "population": {
+      "number": 81800269,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 118, "name": "Iraq", "iso3": "IRQ", "iso2": "IQ" },
+    "population": {
+      "number": 41190658,
+      "year": 2021,
+      "source": "Authority of Statistics and Geographic Information Systems of Iraq"
+    },
+    "chronic_hunger": null,
+    "malnutrition": {
+      "acute_percent": 0.025,
+      "chronic_percent": 0.099,
+      "year": 2018,
+      "source": "UNICEF"
+    },
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 114, "name": "Iceland", "iso3": "ISL", "iso2": "IS" },
+    "population": { "number": 353574, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 121, "name": "Israel", "iso3": "ISR", "iso2": "IL" },
+    "population": { "number": 8883800, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 122, "name": "Italy", "iso3": "ITA", "iso2": "IT" },
+    "population": {
+      "number": 60431283,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 123, "name": "Jamaica", "iso3": "JAM", "iso2": "JM" },
+    "population": { "number": 2934855, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 130, "name": "Jordan", "iso3": "JOR", "iso2": "JO" },
+    "population": { "number": 9956011, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 126, "name": "Japan", "iso3": "JPN", "iso2": "JP" },
+    "population": {
+      "number": 126529100,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 132, "name": "Kazakhstan", "iso3": "KAZ", "iso2": "KZ" },
+    "population": {
+      "number": 18276499,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 133, "name": "Kenya", "iso3": "KEN", "iso2": "KE" },
+    "population": { "number": 51393009, "year": 2018, "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 138, "name": "Kyrgyzstan", "iso3": "KGZ", "iso2": "KG" },
+    "population": { "number": 6591600, "year": "2020", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 44, "name": "Cambodia", "iso3": "KHM", "iso2": "KH" },
+    "population": {
+      "number": 16249798,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 135, "name": "Kiribati", "iso3": "KIR", "iso2": "KI" },
+    "population": { "number": 115847, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": {
+      "id": 208,
+      "name": "Saint Kitts and Nevis",
+      "iso3": "KNA",
+      "iso2": "KN"
+    },
+    "population": { "number": 52441, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 202,
+      "name": "Republic of Korea",
+      "iso3": "KOR",
+      "iso2": "KR"
+    },
+    "population": {
+      "number": 51635256,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 137, "name": "Kuwait", "iso3": "KWT", "iso2": "KW" },
+    "population": { "number": 4137309, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 139,
+      "name": "Lao People's Democratic Republic",
+      "iso3": "LAO",
+      "iso2": "LA"
+    },
+    "population": { "number": 7061507, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 141, "name": "Lebanon", "iso3": "LBN", "iso2": "LB" },
+    "population": {
+      "number": 5574516,
+      "year": 2024,
+      "source": "WFP Lebanon CO"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 144, "name": "Liberia", "iso3": "LBR", "iso2": "LR" },
+    "population": { "number": 4568298, "year": 2020, "source": "LISGIS" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 145, "name": "Libya", "iso3": "LBY", "iso2": "LY" },
+    "population": { "number": 6678567, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 209,
+      "name": "Saint Lucia",
+      "iso3": "LCA",
+      "iso2": "LC"
+    },
+    "population": { "number": 181889, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 146,
+      "name": "Liechtenstein",
+      "iso3": "LIE",
+      "iso2": "LI"
+    },
+    "population": { "number": 37910, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 231, "name": "Sri Lanka", "iso3": "LKA", "iso2": "LK" },
+    "population": {
+      "number": 21670000,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 142, "name": "Lesotho", "iso3": "LSO", "iso2": "LS" },
+    "population": { "number": 2108132, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 147, "name": "Lithuania", "iso3": "LTU", "iso2": "LT" },
+    "population": { "number": 2789533, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 148, "name": "Luxembourg", "iso3": "LUX", "iso2": "LU" },
+    "population": { "number": 607728, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 140, "name": "Latvia", "iso3": "LVA", "iso2": "LV" },
+    "population": { "number": 1926542, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 149, "name": "Macau", "iso3": "MAC", "iso2": "MO" },
+    "population": { "number": 631636, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 169, "name": "Morocco", "iso3": "MAR", "iso2": "MA" },
+    "population": {
+      "number": 36029138,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 166, "name": "Monaco", "iso3": "MCO", "iso2": "MC" },
+    "population": { "number": 38682, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 165,
+      "name": "Moldova, Republic of",
+      "iso3": "MDA",
+      "iso2": "MD"
+    },
+    "population": { "number": 3545883, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 150, "name": "Madagascar", "iso3": "MDG", "iso2": "MG" },
+    "population": {
+      "number": 26251310,
+      "year": 2020,
+      "source": "INSTAT Census 2018 with a 2.46% growth rate"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 154, "name": "Maldives", "iso3": "MDV", "iso2": "MV" },
+    "population": { "number": 515696, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 162, "name": "Mexico", "iso3": "MEX", "iso2": "MX" },
+    "population": {
+      "number": 126190788,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 157,
+      "name": "Marshall Islands",
+      "iso3": "MHL",
+      "iso2": "MH"
+    },
+    "population": { "number": 58413, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 241,
+      "name": "The former Yugoslav Republic of Macedonia",
+      "iso3": "MKD",
+      "iso2": "MK"
+    },
+    "population": { "number": 2082958, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 155, "name": "Mali", "iso3": "MLI", "iso2": "ML" },
+    "population": {
+      "number": 19077686,
+      "year": 2018,
+      "source": "World Bank, DNP"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 156, "name": "Malta", "iso3": "MLT", "iso2": "MT" },
+    "population": { "number": 483530, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 273, "name": "Myanmar", "iso3": "MMR", "iso2": "MM" },
+    "population": {
+      "number": 53708395,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": {
+      "id": 2647,
+      "name": "Montenegro",
+      "iso3": "MNE",
+      "iso2": "ME"
+    },
+    "population": { "number": 622345, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 167, "name": "Mongolia", "iso3": "MNG", "iso2": "MN" },
+    "population": { "number": 3170208, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": {
+      "id": 185,
+      "name": "Northern Mariana Islands",
+      "iso3": "MNP",
+      "iso2": "MP"
+    },
+    "population": { "number": 56882, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 170, "name": "Mozambique", "iso3": "MOZ", "iso2": "MZ" },
+    "population": {
+      "number": 29495960,
+      "year": 2020,
+      "source": "World Bank, WFP"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 159, "name": "Mauritania", "iso3": "MRT", "iso2": "MR" },
+    "population": { "number": 4403319, "year": 2018, "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 160, "name": "Mauritius", "iso3": "MUS", "iso2": "MU" },
+    "population": { "number": 1265303, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 152, "name": "Malawi", "iso3": "MWI", "iso2": "MW" },
+    "population": { "number": 18143299, "year": 2020, "source": "WFP" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 153, "name": "Malaysia", "iso3": "MYS", "iso2": "MY" },
+    "population": {
+      "number": 31528585,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 172, "name": "Namibia", "iso3": "NAM", "iso2": "NA" },
+    "population": {
+      "number": 2299993,
+      "year": 2016,
+      "source": "Namibia Inter-Censal Demographic Survey"
+    },
+    "chronic_hunger": null,
+    "malnutrition": {
+      "acute_percent": 0.06,
+      "chronic_percent": 0.24,
+      "year": 2013,
+      "source": "DHS, 2013"
+    },
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 178,
+      "name": "New Caledonia",
+      "iso3": "NCL",
+      "iso2": "NC"
+    },
+    "population": { "number": 284060, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 181, "name": "Niger", "iso3": "NER", "iso2": "NE" },
+    "population": {
+      "number": 25879768,
+      "year": 2023,
+      "source": "WFP Niger CO"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 182, "name": "Nigeria", "iso3": "NGA", "iso2": "NG" },
+    "population": {
+      "number": 202758506,
+      "year": 2019,
+      "source": "WFP Nigeria"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 180, "name": "Nicaragua", "iso3": "NIC", "iso2": "NI" },
+    "population": {
+      "number": 6077502,
+      "year": 2020,
+      "source": "WFP Nicaragua"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": {
+      "id": 177,
+      "name": "Netherlands",
+      "iso3": "NLD",
+      "iso2": "NL"
+    },
+    "population": {
+      "number": 17231017,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 186, "name": "Norway", "iso3": "NOR", "iso2": "NO" },
+    "population": { "number": 5314336, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 175, "name": "Nepal", "iso3": "NPL", "iso2": "NP" },
+    "population": {
+      "number": 28087871,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 173, "name": "Nauru", "iso3": "NRU", "iso2": "NR" },
+    "population": { "number": 12704, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 179,
+      "name": "New Zealand",
+      "iso3": "NZL",
+      "iso2": "NZ"
+    },
+    "population": { "number": 4885500, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 187, "name": "Oman", "iso3": "OMN", "iso2": "OM" },
+    "population": { "number": 4829483, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 188, "name": "Pakistan", "iso3": "PAK", "iso2": "PK" },
+    "population": {
+      "number": 212215030,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 191, "name": "Panama", "iso3": "PAN", "iso2": "PA" },
+    "population": { "number": 4176873, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 195, "name": "Peru", "iso3": "PER", "iso2": "PE" },
+    "population": {
+      "number": 31989256,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 275,
+      "name": "Philippines",
+      "iso3": "PHL",
+      "iso2": "PH"
+    },
+    "population": {
+      "number": 106651922,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 189, "name": "Palau", "iso3": "PLW", "iso2": "PW" },
+    "population": { "number": 17907, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 274,
+      "name": "Papua New Guinea",
+      "iso3": "PNG",
+      "iso2": "PG"
+    },
+    "population": { "number": 8606316, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 198, "name": "Poland", "iso3": "POL", "iso2": "PL" },
+    "population": {
+      "number": 37978548,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 200,
+      "name": "Puerto Rico",
+      "iso3": "PRI",
+      "iso2": "PR"
+    },
+    "population": { "number": 3195153, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 67,
+      "name": "Dem People's Rep of Korea",
+      "iso3": "PRK",
+      "iso2": "KP"
+    },
+    "population": {
+      "number": 25549819,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 199, "name": "Portugal", "iso3": "PRT", "iso2": "PT" },
+    "population": {
+      "number": 10281762,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 194, "name": "Paraguay", "iso3": "PRY", "iso2": "PY" },
+    "population": { "number": 6956071, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 1011,
+      "name": "State of Palestine",
+      "iso3": "PSE",
+      "iso2": "PS"
+    },
+    "population": { "number": 4569087, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": {
+      "id": 87,
+      "name": "French Polynesia",
+      "iso3": "PYF",
+      "iso2": "PF"
+    },
+    "population": { "number": 277679, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 201, "name": "Qatar", "iso3": "QAT", "iso2": "QA" },
+    "population": { "number": 2781677, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 203, "name": "Romania", "iso3": "ROU", "iso2": "RO" },
+    "population": {
+      "number": 19473936,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 204,
+      "name": "Russian Federation",
+      "iso3": "RUS",
+      "iso2": "RU"
+    },
+    "population": {
+      "number": 144478050,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 205, "name": "Rwanda", "iso3": "RWA", "iso2": "RW" },
+    "population": {
+      "number": 12301939,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": {
+      "id": 215,
+      "name": "Saudi Arabia",
+      "iso3": "SAU",
+      "iso2": "SA"
+    },
+    "population": {
+      "number": 33699947,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 40764, "name": "Sudan", "iso3": "SDN", "iso2": "SD" },
+    "population": { "number": 46568823, "year": 2021, "source": "WFP Sudan" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 278, "name": "Senegal", "iso3": "SEN", "iso2": "SN" },
+    "population": {
+      "number": 15854360,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 222, "name": "Singapore", "iso3": "SGP", "iso2": "SG" },
+    "population": { "number": 5638676, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 225,
+      "name": "Solomon Islands",
+      "iso3": "SLB",
+      "iso2": "SB"
+    },
+    "population": { "number": 652858, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": {
+      "id": 221,
+      "name": "Sierra Leone",
+      "iso3": "SLE",
+      "iso2": "SL"
+    },
+    "population": {
+      "number": 8221702,
+      "year": 2015,
+      "source": "SSL Census (2020 Projections)"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 75, "name": "El Salvador", "iso3": "SLV", "iso2": "SV" },
+    "population": { "number": 6420744, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 213, "name": "San Marino", "iso3": "SMR", "iso2": "SM" },
+    "population": { "number": 33785, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 226, "name": "Somalia", "iso3": "SOM", "iso2": "SO" },
+    "population": { "number": 16384718, "year": 2022, "source": "OCHA" },
+    "chronic_hunger": null,
+    "malnutrition": {
+      "acute_percent": 0.118,
+      "chronic_percent": 0.278,
+      "year": 2020,
+      "source": "FSNAU 2021 (acute malnutrition), DHS 2020 (chronic malnutrition)"
+    },
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 2648, "name": "Serbia", "iso3": "SRB", "iso2": "RS" },
+    "population": { "number": 6982084, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 70001,
+      "name": "South Sudan",
+      "iso3": "SSD",
+      "iso2": "SS"
+    },
+    "population": {
+      "number": 10975920,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": {
+      "id": 214,
+      "name": "Sao Tome and Principe",
+      "iso3": "STP",
+      "iso2": "ST"
+    },
+    "population": { "number": 211028, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 233, "name": "Suriname", "iso3": "SUR", "iso2": "SR" },
+    "population": { "number": 575991, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 223, "name": "Slovakia", "iso3": "SVK", "iso2": "SK" },
+    "population": { "number": 5447011, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 224, "name": "Slovenia", "iso3": "SVN", "iso2": "SI" },
+    "population": { "number": 2067372, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 236, "name": "Sweden", "iso3": "SWE", "iso2": "SE" },
+    "population": {
+      "number": 10183175,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 235, "name": "Eswatini", "iso3": "SWZ", "iso2": "SZ" },
+    "population": { "number": 1136191, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 220, "name": "Seychelles", "iso3": "SYC", "iso2": "SC" },
+    "population": { "number": 96762, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 238,
+      "name": "Syrian Arab Republic",
+      "iso3": "SYR",
+      "iso2": "SY"
+    },
+    "population": { "number": 20400001, "year": 2019, "source": "OCHA" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": {
+      "id": 251,
+      "name": "Turks and Caicos islands",
+      "iso3": "TCA",
+      "iso2": "TC"
+    },
+    "population": { "number": 37665, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 50, "name": "Chad", "iso3": "TCD", "iso2": "TD" },
+    "population": { "number": 15946880, "year": 2019, "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": {
+      "acute_percent": 0.1,
+      "chronic_percent": 0.305,
+      "year": 2020,
+      "source": "SMART survey, UNICEF, DNTA"
+    },
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 243, "name": "Togo", "iso3": "TGO", "iso2": "TG" },
+    "population": { "number": 7889094, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 240, "name": "Thailand", "iso3": "THA", "iso2": "TH" },
+    "population": {
+      "number": 69428524,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 239, "name": "Tajikistan", "iso3": "TJK", "iso2": "TJ" },
+    "population": { "number": 9100837, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": {
+      "id": 250,
+      "name": "Turkmenistan",
+      "iso3": "TKM",
+      "iso2": "TM"
+    },
+    "population": { "number": 5850908, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 242,
+      "name": "Timor-Leste",
+      "iso3": "TLS",
+      "iso2": "TL"
+    },
+    "population": { "number": 1267972, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": {
+      "acute_percent": 0.086,
+      "chronic_percent": 0.471,
+      "year": 2020,
+      "source": "Food and Nutrition Survey (FNS), 2020"
+    },
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 245, "name": "Tonga", "iso3": "TON", "iso2": "TO" },
+    "population": { "number": 103197, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 246,
+      "name": "Trinidad and Tobago",
+      "iso3": "TTO",
+      "iso2": "TT"
+    },
+    "population": { "number": 1389858, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 248, "name": "Tunisia", "iso3": "TUN", "iso2": "TN" },
+    "population": {
+      "number": 11565204,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 249, "name": "Turkey", "iso3": "TUR", "iso2": "TR" },
+    "population": {
+      "number": 82319724,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 252, "name": "Tuvalu", "iso3": "TUV", "iso2": "TV" },
+    "population": { "number": 11508, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 257,
+      "name": "United Republic of Tanzania",
+      "iso3": "TZA",
+      "iso2": "TZ"
+    },
+    "population": {
+      "number": 56318333,
+      "year": 2020,
+      "source": "World Bank, WFP"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 253, "name": "Uganda", "iso3": "UGA", "iso2": "UG" },
+    "population": {
+      "number": 42723139,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": { "id": 254, "name": "Ukraine", "iso3": "UKR", "iso2": "UA" },
+    "population": {
+      "number": 38739814,
+      "year": 2022,
+      "source": "Oxford University"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 260, "name": "Uruguay", "iso3": "URY", "iso2": "UY" },
+    "population": { "number": 3449299, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 259,
+      "name": "United States of America",
+      "iso3": "USA",
+      "iso2": "US"
+    },
+    "population": {
+      "number": 327167434,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 261, "name": "Uzbekistan", "iso3": "UZB", "iso2": "UZ" },
+    "population": {
+      "number": 32955400,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": {
+      "id": 211,
+      "name": "Saint Vincent and the Grenadines",
+      "iso3": "VCT",
+      "iso2": "VC"
+    },
+    "population": { "number": 110210, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 263, "name": "Venezuela", "iso3": "VEN", "iso2": "VE" },
+    "population": {
+      "number": 28870195,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": {
+      "id": 39,
+      "name": "British Virgin Islands",
+      "iso3": "VGB",
+      "iso2": "VG"
+    },
+    "population": { "number": 29802, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": {
+      "id": 258,
+      "name": "United States Virgin Islands",
+      "iso3": "VIR",
+      "iso2": "VI"
+    },
+    "population": { "number": 106977, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "HIGH" }
+  },
+  {
+    "country": { "id": 264, "name": "Viet Nam", "iso3": "VNM", "iso2": "VN" },
+    "population": {
+      "number": 95540395,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 277, "name": "Vanuatu", "iso3": "VUT", "iso2": "VU" },
+    "population": { "number": 292680, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 212, "name": "Samoa", "iso3": "WSM", "iso2": "WS" },
+    "population": { "number": 196130, "year": "2018", "source": "World Bank" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 269, "name": "Yemen", "iso3": "YEM", "iso2": "YE" },
+    "population": {
+      "number": 34164028,
+      "year": 2024,
+      "source": "WFP Yemen CO, UN Population Projection"
+    },
+    "chronic_hunger": null,
+    "malnutrition": {
+      "acute_percent": 0.117,
+      "chronic_percent": 0.475,
+      "year": 2019,
+      "source": "OCHA"
+    },
+    "income_group": { "level": "LOW" }
+  },
+  {
+    "country": {
+      "id": 227,
+      "name": "South Africa",
+      "iso3": "ZAF",
+      "iso2": "ZA"
+    },
+    "population": {
+      "number": 57779622,
+      "year": "2018",
+      "source": "World Bank"
+    },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "UPMID" }
+  },
+  {
+    "country": { "id": 270, "name": "Zambia", "iso3": "ZMB", "iso2": "ZM" },
+    "population": { "number": 17351816, "year": 2020, "source": "WFP Zambia" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  },
+  {
+    "country": { "id": 271, "name": "Zimbabwe", "iso3": "ZWE", "iso2": "ZW" },
+    "population": { "number": 15178979, "year": 2022, "source": "CO" },
+    "chronic_hunger": null,
+    "malnutrition": null,
+    "income_group": { "level": "LOWMID" }
+  }
+]
